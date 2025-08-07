@@ -1,5 +1,8 @@
 # Geog510
 
+## August, 2025
+Practicing Git and GitHub under instruction of Gregory Mauer with the Jornada Short Course in Las Cruces, NM
+
 Test adding a line.
 
 ## Introduction
